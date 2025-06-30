@@ -1,16 +1,16 @@
 export const exerciseOptions = {
-  method: "GET",
+  method: 'GET',
   headers: {
-    "x-rapidapi-key": "4edadfb905msh513092763a7daa0p154eb6jsn4465f3be0a1e",
-    "x-rapidapi-host": "exercisedb.p.rapidapi.com",
+    'x-rapidapi-key': '4edadfb905msh513092763a7daa0p154eb6jsn4465f3be0a1e',
+    'x-rapidapi-host': 'exercisedb.p.rapidapi.com',
   },
 };
 
 export const youtubeOptions = {
-  method: "GET",
+  method: 'GET',
   headers: {
-    "x-rapidapi-key": "4edadfb905msh513092763a7daa0p154eb6jsn4465f3be0a1e",
-    "x-rapidapi-host": "youtube-search-and-download.p.rapidapi.com",
+    'x-rapidapi-key': '4edadfb905msh513092763a7daa0p154eb6jsn4465f3be0a1e',
+    'x-rapidapi-host': 'youtube-search-and-download.p.rapidapi.com',
   },
 };
 
